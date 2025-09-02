@@ -54,8 +54,8 @@ Here are some high-impact AI/ML projects I've developed:
 ---
 
 ## 📫 Get in Touch
-- LinkedIn: https://www.linkedin.com/in/jugal-s-brahmkshatriya-1285a72bb/(#)  
-- Kaggle: https://www.kaggle.com/hellobrom(#)
+- LinkedIn: https://www.linkedin.com/in/jugal-s-brahmkshatriya-1285a72bb
+- Kaggle: https://www.kaggle.com/hellobrom
 
 ---
 
