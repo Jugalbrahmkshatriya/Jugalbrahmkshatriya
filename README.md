@@ -6,16 +6,16 @@ I'm an AI/ML developer focused on building advanced, real-world AI systems. I do
 
 ---
 
-## 🚀 About Me
-- 🤖 AI & ML enthusiast building advanced models, LLM-based agents, and real-time intelligent dashboards.
-- 💡 Passionate about turning data into actionable insights and solving high-impact problems.
-- 🔬 Continuously exploring deep learning, agentic AI, LLM fine-tuning, and multi-modal intelligence.
-- 🎯 Goal: To create AI systems that push boundaries and redefine how humans interact with technology.
-- 💡 Built 16+ high-impact AI/ML projects completely from scratch, conceptualized and executed independently. 
+##  About Me
+-  AI & ML enthusiast building advanced models, LLM-based agents, and real-time intelligent dashboards.
+-  Passionate about turning data into actionable insights and solving high-impact problems.
+-  Continuously exploring deep learning, agentic AI, LLM fine-tuning, and multi-modal intelligence.
+-  Goal: To create AI systems that push boundaries and redefine how humans interact with technology.
+-  Built 16+ high-impact AI/ML projects completely from scratch, conceptualized and executed independently. 
 
 ---
 
-## 🛠️ Skills
+##  Skills
 Programming : Python (OOP, Automation, CLI, GUI), SQL, Bash 
 AI / ML : LLaMA, GPT-based Agents, LangChain, RAG, OpenAI API, PyTorch, FastAI 
 Deep Learning : Transformers, CNNs, RNNs, LLM fine-tuning, Multi-modal AI 
@@ -26,7 +26,7 @@ Others : Problem Solving, Logical Thinking, Strategic AI Design
 
 ---
 
-## 💻 Selected Projects
+## Selected Projects
 Here are some high-impact AI/ML projects I've developed:
 
 1. **RaceMind – F1 AI Dashboard**  
